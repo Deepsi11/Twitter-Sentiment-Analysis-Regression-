@@ -1,0 +1,6 @@
+PS C:\Users\Ashu\Desktop\social _media industry assignment -2 part2_Regression> & C:/ProgramData/python.exe "c:/Users/Ashu/Desktop/social _media industry assignment -2 part2_Regression/EmotionIntnsityRegression.py"
+Anger Pearson Correlation Coefficient: 0.053664180093334
+Fear Pearson Correlation Coefficient: 0.2644809462186997
+Joy Pearson Correlation Coefficient: 0.19069059646732953
+Sadness Pearson Correlation Coefficient: 0.032661158028900204
+
